@@ -1,24 +1,21 @@
 #+TITLE: Introduction
 * About
-I am a first year PhD student in the Analytics and Optimization group at the Department of Mathematics of VU Amsterdam. My 4-year PhD programme is funded by a public-private initiative between VU Amsterdam, EQUANS, Bluerock Logistics and Fransen Gerrits to optimize supply chain logistics in the animal-feed industry and is supervised by Rob van der Mei (VU/CWI), Sandjai Bhulai (VU) and Joost Berkhout (VU). Our research focuses on the design of scalable and robust algorithms to integrate production and transport planning using traditional optimization techniques (MILP) and large-scale (meta)heuristics (local search, evolutionary algorithms).
+I am a first year PhD candidate in the Analytics and Optimization group at the Department of Mathematics of VU Amsterdam. My 4-year PhD programme is funded by a public-private initiative between VU Amsterdam, EQUANS, Bluerock Logistics and Fransen Gerrits to optimize supply chain logistics in the animal-feed industry and is supervised by Rob van der Mei (VU/CWI), Sandjai Bhulai (VU) and Joost Berkhout (VU). Our research focuses on the design of scalable and robust algorithms to integrate production and transport planning using traditional optimization techniques (MILP) and large-scale (meta)heuristics (local search, evolutionary algorithms).
 
-Previously, I obtained my Bachelor's degree in Liberal Arts and Sciences at the Amsterdam University college and I got my Master’s degree in Operations Research at VU Amsterdam. My [[./thesis.org][Master's thesis]] was on power networks and supervised by [[https://sites.google.com/site/zoccaale/][Alessandro Zocca]].
+Previously, I obtained my bachelor's degree in Liberal Arts and Sciences at Amsterdam University College and I got my master’s degree in Operations Research at VU Amsterdam. My [[./thesis.org][master's thesis]] was on power networks and supervised by [[https://sites.google.com/site/zoccaale/][Alessandro Zocca]].
 
 Outside of academia I spend most of my time cooking, practicing Chinese and tinkering with Emacs.
 
 Contact: l.lan /at/ vu.nl
 
 * Publications
-1. [[https://arxiv.org/abs/2110.06998][Refining bridge-block decompositions through two-stage and recursive tree partitioning]]
+1. L. Lan and A. Zocca, “Refining bridge-block decompositions through two-stage and recursive tree partitioning,” arXiv:2110.06998 [cs, eess, math], Oct. 2021. https://arxiv.org/abs/2110.06998. Submitted to [[https://pscc2022.pt/][PSCC 2022]], 22nd Power Systems Computations Conference, Porto, Portugal.
+2. L. Lan and A. Zocca, “An MILP-based approach to tree partitioning with minimal power flow disruption and generator coherency constraints,” arXiv:2110.07000 [cs, eess, math], Oct. 2021. https://arxiv.org/abs/2110.07000. Submitted to [[https://pscc2022.pt/][PSCC 2022]], 22nd Power Systems Computations Conference, Porto, Portugal.
 
-   Leon Lan, Alessandro Zocca
-
-   Submitted to [[https://pscc2022.pt/][PSCC 2022]], 22nd Power Systems Computations Conference, Porto, Portugal, October 2021
-2. [[https://arxiv.org/abs/2110.07000][An MILP-based approach to tree partitioning with minimal power flow disruption and generator coherency constraints]]
-
-   Leon Lan, Alessandro Zocca
-
-   Submitted to [[https://pscc2022.pt/][PSCC 2022]], 22nd Power Systems Computations Conference, Porto, Portugal, October 2021
+   # Other style that doesn't work because of newlines:
+   # An MILP-based approach to tree partitioning with minimal power flow disruption and generator coherency constraints
+    # Leon Lan, Alessandro Zocca
+    # Submited to PSCC 2022, 22nd Power Systems Computations Conference, Porto, Portugal, October 2021
 
 * Teaching
 - Fall 2020: Teaching Assistant for Applied Stochastic Modeling at VU Amsterdam
