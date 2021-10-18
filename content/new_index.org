@@ -10,11 +10,15 @@ Contact: l.lan /at/ vu.nl
 
 * Publications
 1. [[https://arxiv.org/abs/2110.06998][Refining bridge-block decompositions through two-stage and recursive tree partitioning]]
+
    Leon Lan, Alessandro Zocca
-   Submited to [[https://pscc2022.pt/][PSCC 2022]], 22nd Power Systems Computations Conference, Porto, Portugal, October 2021
+
+   Submitted to [[https://pscc2022.pt/][PSCC 2022]], 22nd Power Systems Computations Conference, Porto, Portugal, October 2021
 2. [[https://arxiv.org/abs/2110.07000][An MILP-based approach to tree partitioning with minimal power flow disruption and generator coherency constraints]]
+
    Leon Lan, Alessandro Zocca
-   Submited to [[https://pscc2022.pt/][PSCC 2022]], 22nd Power Systems Computations Conference, Porto, Portugal, October 2021
+
+   Submitted to [[https://pscc2022.pt/][PSCC 2022]], 22nd Power Systems Computations Conference, Porto, Portugal, October 2021
 
 * Teaching
 - Fall 2020: Teaching Assistant for Applied Stochastic Modeling at VU Amsterdam
