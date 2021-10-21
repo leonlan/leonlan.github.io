@@ -1,7 +1,5 @@
 #+TITLE: Introduction
 * About
-#+attr_html: :width 300px
-[[img/LeonLan_HeadshotCropped.jpg]]
 I am a first year PhD candidate in the Analytics and Optimization group at the Department of Mathematics of VU Amsterdam. My 4-year PhD programme is funded by a public-private initiative between VU Amsterdam, EQUANS, Bluerock Logistics and Fransen Gerrits to optimize supply chain logistics in the animal-feed industry and is supervised by Rob van der Mei (VU/CWI), Sandjai Bhulai (VU) and Joost Berkhout (VU). Our research focuses on the design of scalable and robust algorithms to integrate production and transport planning using traditional optimization techniques (MILP) and large-scale (meta)heuristics (local search, evolutionary algorithms).
 
 Previously, I obtained my bachelor's degree in Liberal Arts and Sciences at Amsterdam University College and I got my master’s degree in Operations Research at VU Amsterdam. My [[./thesis.org][master's thesis]] was on power networks and supervised by [[https://sites.google.com/site/zoccaale/][Alessandro Zocca]].
@@ -20,8 +18,10 @@ Contact: l.lan /at/ vu.nl
     # Submited to PSCC 2022, 22nd Power Systems Computations Conference, Porto, Portugal, October 2021
 
 * Teaching
-- Fall 2020: Teaching Assistant for Applied Stochastic Modeling at VU Amsterdam
+- Fall 2021: Teaching Assistant for Mathematical Optimization at VU Amsterdam
+- Fall 2021: Teaching Assistant for Applied Stochastic Modeling at VU Amsterdam
 - Fall 2020: Teaching Assistant for Mathematical Optimization at VU Amsterdam
+- Spring 2020: Teaching Assistent for Statistics for Science at Amsterdam Unversity College
 
 * CV
 See [[https://drive.google.com/file/d/1AfrOHoGAMO2yAyKEAroXPrCXXljfBfJZ/view?usp=sharing][here]] for my CV (last updated: September 2021).
