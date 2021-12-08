@@ -1,5 +1,7 @@
-#+TITLE: Introduction
-* About
+#+TITLE:
+#+OPTIONS: toc:nil
+
+* About me
 :PROPERTIES:
 :ID:       2aaeb6c4-5cdd-4db1-931a-c13a86daf502
 :END:
