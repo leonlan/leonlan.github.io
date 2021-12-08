@@ -1,5 +1,6 @@
-#+title: Org Website Example
+#+title: Personal website
+* Introduction
+This repository contains the content for my personal website [[https://www.leonlan.com][www.leonlan.com]]. The website is built with [[https://orgmode.org][Org Mode]]. Check out the [[https://systemcrafters.net/publishing-websites-with-org-mode/][Publishing Websites with Org Mode]] series to learn how this was created!
 
-This repo is an example of how you can build and publish a website with [[https://orgmode.org][Org Mode]].
-
-Check out the [[https://systemcrafters.net/publishing-websites-with-org-mode/][Publishing Websites with Org Mode]] series to learn how this was created!
+* Inspiration list
+** [[https://hugocisneros.com/][Hugo Cisneros]] :blog:
