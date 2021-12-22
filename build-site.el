@@ -33,6 +33,7 @@
              :with-author nil           ;; Don't include author name
              ;; :with-creator t            ;; Include Emacs and Org versions in footer
              ;; :with-toc t                ;; Include a table of contents
+             :with-title nil            ;; Don't include title
              :section-numbers nil       ;; Don't include section numbers
              :time-stamp-file nil)))    ;; Don't include time stamp in file
 
