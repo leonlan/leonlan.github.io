@@ -5,7 +5,7 @@
 :PROPERTIES:
 :ID:       2aaeb6c4-5cdd-4db1-931a-c13a86daf502
 :END:
-[[./img/LeonLan_HeadshotCropped.jpg]]
+[[file:img/LeonLan_HeadshotCropped.jpg]]
 I am a first year PhD candidate at the Department of Mathematics of VU Amsterdam. My research interests are production scheduling, vehicle routing problems and the integration of those two.
 
 I obtained my bachelor's degree in Liberal Arts and Sciences at Amsterdam University College and I got my master’s degree in Operations Research at VU Amsterdam. I wrote my master's thesis about power networks and I was supervised by [[https://sites.google.com/site/zoccaale/][Alessandro Zocca]].
