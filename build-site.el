@@ -35,7 +35,15 @@
              ;; :with-toc t                ;; Include a table of contents
              :with-title nil            ;; Don't include title
              :section-numbers nil       ;; Don't include section numbers
-             :time-stamp-file nil)))    ;; Don't include time stamp in file
+             :time-stamp-file nil)
+       (list "org-static"
+             :base-directory "./content/img"
+             :base-extension "css\\|js\\|png\\|jpg\\|gif\\|pdf\\|mp3\\|ogg\\|swf"
+             :publishing-directory "./public/img"
+             :recursive t
+             :publishing-function 'org-publish-attachment
+             )
+       ))    ;; Don't include time stamp in file
 
 ;; Generate the site output
 (org-publish-all t)
