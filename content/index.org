@@ -2,7 +2,7 @@
 #+OPTIONS: toc:nil
 
 * About me
-#+ATTR_HTML: :width 200px :height 200px
+#+ATTR_HTML: :width 350px :height 350px
 [[file:img/LeonLan_HeadshotCropped.jpg]]
 
 I am a first year PhD candidate in Optimization at the Department of Mathematics of VU Amsterdam. My research interests are production scheduling, vehicle routing problems and the integration of these two optimization problems.
