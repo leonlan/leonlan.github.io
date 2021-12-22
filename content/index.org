@@ -9,10 +9,9 @@ I am a first year PhD candidate in Optimization at the Department of Mathematics
 
 I obtained my bachelor's degree in Liberal Arts and Sciences at Amsterdam University College and I got my master’s degree in Operations Research at VU Amsterdam. I wrote my master's thesis about power networks and I was supervised by [[https://sites.google.com/site/zoccaale/][Alessandro Zocca]].
 
-Outside of academia, I spend most of my time cooking, practicing Chinese and tinkering with Emacs.
+Outside of work, I keep myself busy with cooking, practicing Chinese and tinkering with Emacs.
 
-Socials
-- Email: mailto:l.lan@vu.nl
+- Email: [[mailto:l.lan@vu.nl][l.lan@vu.nl]]
 - Github: https://github.com/leonlan
 - Linkedin: https://www.linkedin.com/in/leonlan/
 # My 4-year PhD programme is funded by a public-private initiative between VU Amsterdam, EQUANS, Bluerock Logistics and Fransen Gerrits to optimize supply chain logistics in the animal-feed industry and is supervised by Rob van der Mei (VU/CWI), Sandjai Bhulai (VU) and Joost Berkhout (VU). Our research focuses on the design of scalable and robust algorithms to integrate production and transport planning using traditional optimization techniques (MILP) and large-scale (meta)heuristics (local search, evolutionary algorithms).
