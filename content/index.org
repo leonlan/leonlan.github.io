@@ -17,6 +17,8 @@ Outside of work, I keep myself busy with cooking, practicing Chinese and tinkeri
 # My 4-year PhD programme is funded by a public-private initiative between VU Amsterdam, EQUANS, Bluerock Logistics and Fransen Gerrits to optimize supply chain logistics in the animal-feed industry and is supervised by Rob van der Mei (VU/CWI), Sandjai Bhulai (VU) and Joost Berkhout (VU). Our research focuses on the design of scalable and robust algorithms to integrate production and transport planning using traditional optimization techniques (MILP) and large-scale (meta)heuristics (local search, evolutionary algorithms).
 
 * Publications
+# ** Published
+** Under review
 1. L. Lan and A. Zocca, “Refining bridge-block decompositions through two-stage and recursive tree partitioning,” arXiv:2110.06998 [cs, eess, math], Oct. 2021. https://arxiv.org/abs/2110.06998. Submitted to [[https://pscc2022.pt/][PSCC 2022]], 22nd Power Systems Computations Conference, Porto, Portugal.
 2. L. Lan and A. Zocca, “An MILP-based approach to tree partitioning with minimal power flow disruption and generator coherency constraints,” arXiv:2110.07000 [cs, eess, math], Oct. 2021. https://arxiv.org/abs/2110.07000. Submitted to [[https://pscc2022.pt/][PSCC 2022]], 22nd Power Systems Computations Conference, Porto, Portugal.
 
