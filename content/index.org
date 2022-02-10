@@ -14,9 +14,9 @@ Outside of work, I keep myself busy with cooking, practicing Chinese and tinkeri
 # See [[https://drive.google.com/file/d/1AfrOHoGAMO2yAyKEAroXPrCXXljfBfJZ/view?usp=sharing][here]] for my CV (last updated: September 2021).
 
 @@html:<a href='mailto:l.lan@vu.nl'><i class="fa fa-envelope" style="font-size:24px"></i></a>@@
+@@html:<a href='https://www.linkedin.com/in/leonlan/'><i class="fa fa-linkedin" style="font-size:24px"></i></a>@@
 @@html:<a href='https://twitter.com/leonlan_'><i class="fa fa-twitter" style="font-size:24px"></i></a>@@
 @@html:<a href='https://github.com/leonlan'><i class="fa fa-github" style="font-size:24px"></i></a>@@
-@@html:<a href='https://www.linkedin.com/in/leonlan/'><i class="fa fa-linkedin" style="font-size:24px"></i></a>@@
 
 # - Google Scholar: https://scholar.google.com/citations?user=2yM55FwAAAAJ&hl=en
 # My 4-year PhD programme is funded by a public-private initiative between VU Amsterdam, EQUANS, Bluerock Logistics and Fransen Gerrits to optimize supply chain logistics in the animal-feed industry and is supervised by Rob van der Mei (VU/CWI), Sandjai Bhulai (VU) and Joost Berkhout (VU). Our research focuses on the design of scalable and robust algorithms to integrate production and transport planning using traditional optimization techniques (MILP) and large-scale (meta)heuristics (local search, evolutionary algorithms).
