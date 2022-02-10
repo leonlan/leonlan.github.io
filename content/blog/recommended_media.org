@@ -1,6 +1,3 @@
-:PROPERTIES:
-:ID:       bdb3e000-60bc-44e9-9f4c-27512d925eb0
-:END:
 #+title: Recommended Blogs, Podcasts and Seminars for PhD Candidates in Operations Research
 #+subtitle: A curated list of valuable resources
 #+AUTHOR: Leon Lan
