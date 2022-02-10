@@ -11,7 +11,7 @@ Previously, I obtained my bachelor's degree in Liberal Arts and Sciences at Amst
 
 Outside of work, I keep myself busy with cooking, practicing Chinese and tinkering with Emacs.
 
-See [[https://drive.google.com/file/d/1AfrOHoGAMO2yAyKEAroXPrCXXljfBfJZ/view?usp=sharing][here]] for my CV (last updated: September 2021).
+# See [[https://drive.google.com/file/d/1AfrOHoGAMO2yAyKEAroXPrCXXljfBfJZ/view?usp=sharing][here]] for my CV (last updated: September 2021).
 
 @@html:<a href='mailto:l.lan@vu.nl'><i class="fa fa-envelope" style="font-size:24px"></i></a>@@
 @@html:<a href='https://twitter.com/leonlan_'><i class="fa fa-twitter" style="font-size:24px"></i></a>@@
@@ -33,7 +33,7 @@ See [[https://drive.google.com/file/d/1AfrOHoGAMO2yAyKEAroXPrCXXljfBfJZ/view?usp
     # Submited to PSCC 2022, 22nd Power Systems Computations Conference, Porto, Portugal, October 2021
 
 * Teaching
-- Spring 2022: TA for Optimization of Business Processes at VU
+- Spring 2022: TA for [[./obp22.org]Optimization of Business Processes]] at VU
 - Spring 2022: TA for Operations Research at VU
 - Fall 2021: TA for Mathematical Optimization at VU
 - Fall 2021: TA for Applied Stochastic Modeling at VU
