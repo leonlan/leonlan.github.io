@@ -1,0 +1,52 @@
+:PROPERTIES:
+:ID:       bdb3e000-60bc-44e9-9f4c-27512d925eb0
+:END:
+#+title: Recommended Blogs, Podcasts and Seminars for PhD Candidates in Operations Research
+#+subtitle: A curated list of valuable resources
+#+AUTHOR: Leon Lan
+#+EMAIL: leon.lanyidong@gmail.com
+#+CREATED: [2021-10-30 Sat 14:09]
+#+SETUPFILE: ~/Dropbox/config/latex/org-latex.setup
+#+BIBLIOGRAPHY: ~/Dropbox/bib/bibliography.bib
+
+* Introduction
+As a freshly-started PhD Candidate in Operations Research (OR), I have read dozens of books and papers over the past several months. While this is a necessity to familiarize myself with the literature, I have also found valuable information in media such as blogs, podcasts and seminars that I would not have been able to get from surveying the academic literature. In particular, reading online discussions and listening to Q&A's have been very helpful to me.
+
+In this post, I present my curated list of blogs, podcasts and seminars that are of interests to PhD Candidates in OR.
+
+* Blogs
+Here's a list of my favorite OR blogs:
+- [[https://yetanothermathprogrammingconsultant.blogspot.com/][Yet Another Math Programming Consultant by Erwin Kalvelagen]] :: Erwin Kalvelagen works as a full-time consultant. He frequently writes about problems that he encounters on the job and supplements the post with GAMS code and numerical results. Erwin's blogposts are a valuable source of optimization problems and provide practical insights in models/solvers.
+  - Examples: [[http://yetanothermathprogrammingconsultant.blogspot.com/2020/12/directed-vs-undirected-networks-in-math.html][Directed vs undirected networks in math programming models]] and [[https://yetanothermathprogrammingconsultant.blogspot.com/2021/03/minimum-spanning-trees-in-math.html][Minimum Spanning Trees in Math Programming Models]]
+- [[https://punkrockor.com/][Punk Rock Operations Research by Laura Albert]] :: Laura Albert is a professor at the University of Wisconsin-Michigan. Her blog was one of the first blogs on industrial engineering and OR. I particularly like her blog posts on writing about OR.
+  - Examples: [[https://punkrockor.com/2021/07/27/how-to-write-about-operations-research/][How to write about Operations Research]] and [[https://punkrockor.com/2021/09/07/on-writing-well/][On writing well]]
+- [[https://orinanobworld.blogspot.com/][OR in an OB world by Paul Rubin]] :: Paul Rubin is a professor emeritus at Michigan State University. Most posts cover mathematical programming problems.
+
+For a larger overview of OR blogs, you can check out this [[https://mat.tepper.cmu.edu/blog/index.php/listing-of-or-blogs/][list]] by Michael Trick or this [[https://or.stackexchange.com/questions/5885/recommendations-for-om-blogs][thread]] on OR StackExchange.
+
+* Podcasts
+I bike a lot to get around in the Netherlands. This makes listening to podcasts a great use of my biking time. Here are two OR podcasts that I recommend:
+- [[https://www.youtube.com/channel/UCKMY2i-ROJjOXCxePFewnkg][Subject to by Anand Subramanian]] :: /Subject to/ is series of interviews with OR experts hosted by Anand Subramanian. What makes this podcast so great to listen to is that Anand is a well-seasoned OR expert himself and he personally knows most of the interviewees personally. The result is a collection of high-quality interviews both in terms of OR content but also personal stories.
+  - Example: [[https://www.youtube.com/watch?v=oqWlANvtviU][Subject to Thibaut Vidal]]
+
+- [[https://pubsonline.informs.org/magazine/orms-today/podcasts][INFORMS: Resoundingly Human by Ashley Kilgore]] :: A series of interviews with researchers from the field of OR and analytics. The interviews are between 10-30 minutes and highlight the "real-life" impact of research.
+  - Example: [[https://pubsonline.informs.org/do/10.1287/orms.2021.05.04p][Preserving the arts through the pandemic with Frits Spieksma]]
+
+* Seminars
+Seminars are an effective way to get a good introduction to some new research area or idea. What I like the most about seminars are the Q&A's: the possibility to ask questions to "the author" has helped me to increase my understanding. Below I listed five seminars here that are (1) hosted online and (2) accessible to anyone.
+- [[https://schedulingseminar.com/][Scheduling seminar]] :: A bi-weekly seminar to present the newest scheduling research and to survey traditional areas.
+  - Example: [[https://www.youtube.com/watch?v=F3Ykma1eqnY][State-of-the-art heuristics for flowshop scheduling by Rubén Ruiz]]
+- [[https://www.euro-online.org/websites/verolog/webinar/][VeRoLog webinar]] ::  A monthly seminar of plenary talks, paper presentations from academia and/or industry as well as interviews with famous researchers from the VeRoLog (i.e., VRP and logistics) community.
+  - Example: [[https://www.euro-online.org/websites/verolog/webinar/][Strategic berth template problems by Elena Fernández]]
+- [[https://portals.project.cwi.nl/dutch-optimization-seminar/dutch-optimization-seminar][Dutch Seminar on Optimization]] :: A monthly seminar organized by the Dutch Optimization community on topics related to (but not limited to) the theoretical foundations of discrete and continuous optimization.
+- [[https://talks.discreteopt.com/][Discrete Optimization Talks]] :: A monthly seminar organized by Aleksandr M. Kazachkov and Elias B. Khalil. on theoretical, computational and applied aspects of integer and combinatorial optimization.
+- [[https://cse.umn.edu/isye/isye-seminar-series][ISyE Seminar Series]] :: Monthly seminar series organized by the department of Industrial and Systems Engineering, University of Minnesota. Recent videos are uploaded on their [[https://www.youtube.com/channel/UCrLq5M3GjRRGYLHBM4Carfg/videos][Youtube]] channel.
+- [[https://congreso.us.es/mlneedsmo/][Machine Learning NeEDS Mathematical Optimization]] :: Monthly seminar series organized in the field of Data Science and Analytics where mathematical modeling and optimization plays an important role.
+
+* Other recommendations
+Here are some other recommendations that may be of interests, but do not belong to any of the categories above.
+- [[https://or.stackexchange.com/][OR StackExchange]] :: The OR Stack Exchange board is the place to ask your questions related to OR. It's actively visited by respected members of the OR community, among others Paul Rubin and Erwin Kalvelagen, whose blogs I listed above.
+- [[https://www.hsu-hh.de/logistik/research/challenges][Optimization Challenges]] :: A comprehensive list of optimization challenges and competitions in OR (and some related fields). The list contains all current and previous challenges and is maintained by Martin J. Geiger.
+- [[https://twitter.com/i/lists/1488062354482999299?s=20&t=_8Fb_UDyeITZRpPQQRReSA][OR Twitter]] :: I maintain a following list of people that are involved in OR academia or industry.
+
+That's it! I hope you enjoy this list of blogs, podcasts and seminars. Note that this list is by no means exhaustive, so feel free to contact me if you have any other suggestions.

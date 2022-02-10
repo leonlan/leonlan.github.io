@@ -39,3 +39,6 @@ Outside of work, I keep myself busy with cooking, practicing Chinese and tinkeri
 - Fall 2021: TA for Applied Stochastic Modeling at VU
 - Fall 2020: TA for Mathematical Optimization at VU
 - Spring 2020: TA for Statistics for Science at AUC
+
+* Blog
+- [[./blog/recommended_media.org][Recommended Blogs, Podcasts and Seminars for PhD Candidates in Operations Research]]
