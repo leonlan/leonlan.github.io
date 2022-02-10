@@ -15,7 +15,7 @@ See [[https://drive.google.com/file/d/1AfrOHoGAMO2yAyKEAroXPrCXXljfBfJZ/view?usp
 
 Socials:
 - Email: [[mailto:l.lan@vu.nl][l.lan@vu.nl]]
-@@html<i href="https://github.com/leonlan" class="fa fa-github" style="font-size:24px"></i>@@
+@@html:<i href="https://github.com/leonlan" class="fa fa-github" style="font-size:24px"></i>@@
 - Twitter: [[https://twitter.com/leonlan_]]
 - Linkedin: https://www.linkedin.com/in/leonlan/
 # - Google Scholar: https://scholar.google.com/citations?user=2yM55FwAAAAJ&hl=en
