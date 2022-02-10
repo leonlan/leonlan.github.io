@@ -33,10 +33,13 @@ Outside of work, I keep myself busy with cooking, practicing Chinese and tinkeri
     # Submited to PSCC 2022, 22nd Power Systems Computations Conference, Porto, Portugal, October 2021
 
 * Teaching
-- Spring 2022: TA for [[./obp22.org][Optimization of Business Processes]] at VU
-- Spring 2022: TA for Operations Research at VU
-- Fall 2021: TA for Mathematical Optimization at VU
-- Fall 2021: TA for Applied Stochastic Modeling at VU
+** AY 21-22
+- [[./obp22.org][Optimization of Business Processes]]
+- Operations Research
+- Mathematical Optimization
+- Applied Stochastic Modeling
+
+** AY 20-21
 - Fall 2020: TA for Mathematical Optimization at VU
 - Spring 2020: TA for Statistics for Science at AUC
 
