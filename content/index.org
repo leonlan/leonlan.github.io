@@ -23,9 +23,9 @@ Outside of work, I keep myself busy with cooking, practicing Chinese and tinkeri
 
 * Publications
 # ** Published
-** Under review
-1. L. Lan and A. Zocca, “Refining bridge-block decompositions through two-stage and recursive tree partitioning,” arXiv:2110.06998 [cs, eess, math], Oct. 2021. https://arxiv.org/abs/2110.06998. Submitted to [[https://pscc2022.pt/][PSCC 2022]], 22nd Power Systems Computations Conference, Porto, Portugal.
-2. L. Lan and A. Zocca, “An MILP-based approach to tree partitioning with minimal power flow disruption and generator coherency constraints,” arXiv:2110.07000 [cs, eess, math], Oct. 2021. https://arxiv.org/abs/2110.07000. Submitted to [[https://pscc2022.pt/][PSCC 2022]], 22nd Power Systems Computations Conference, Porto, Portugal.
+** Preprints
+1. L. Lan and A. Zocca, “Refining bridge-block decompositions through two-stage and recursive tree partitioning,” arXiv:2110.06998 [cs, eess, math], Oct. 2021. https://arxiv.org/abs/2110.06998.
+2. L. Lan and A. Zocca, “An MILP-based approach to tree partitioning with minimal power flow disruption and generator coherency constraints,” arXiv:2110.07000 [cs, eess, math], Oct. 2021. https://arxiv.org/abs/2110.07000.
 
    # Other style that doesn't work because of newlines:
    # An MILP-based approach to tree partitioning with minimal power flow disruption and generator coherency constraints
