@@ -9,16 +9,16 @@ Hi, my name is Leon. I am a first-year PhD candidate at the Department of Mathem
 
 Previously, I obtained my bachelor's degree in Liberal Arts and Sciences at Amsterdam University College and I got my master’s degree in Operations Research at VU Amsterdam. I wrote my master's thesis about power networks and my supervisor was [[https://alessandrozocca.github.io/][Alessandro Zocca]].
 
-Outside of work, I keep myself busy with cooking, practicing Chinese and tinkering with Emacs.
+Outside of work, I keep myself busy with eating and cooking, practicing Chinese and tinkering with Emacs.
 
-# See [[https://drive.google.com/file/d/1AfrOHoGAMO2yAyKEAroXPrCXXljfBfJZ/view?usp=sharing][here]] for my CV (last updated: September 2021).
+See [[https://drive.google.com/file/d/1AfrOHoGAMO2yAyKEAroXPrCXXljfBfJZ/view?usp=sharing][here]] for my CV (last updated: September 2021).
 
 @@html:<a href='mailto:l.lan@vu.nl'><i class="fa fa-envelope" style="font-size:24px"></i></a>@@
 @@html:<a href='https://www.linkedin.com/in/leonlan/'><i class="fa fa-linkedin" style="font-size:24px"></i></a>@@
 @@html:<a href='https://twitter.com/leonlan_'><i class="fa fa-twitter" style="font-size:24px"></i></a>@@
 @@html:<a href='https://github.com/leonlan'><i class="fa fa-github" style="font-size:24px"></i></a>@@
-
-# - Google Scholar: https://scholar.google.com/citations?user=2yM55FwAAAAJ&hl=en
+@@html:<a href='https://scholar.google.com/citations?user=2yM55FwAAAAJ&hl=en'><i class="fa fa-google" style="font-size:24px"></i></a>@@
+@@html:<a href='https://drive.google.com/file/d/1AfrOHoGAMO2yAyKEAroXPrCXXljfBfJZ/view'><i class="fa fa-file-text" style="font-size:24px"></i></a>@@
 # My 4-year PhD programme is funded by a public-private initiative between VU Amsterdam, EQUANS, Bluerock Logistics and Fransen Gerrits to optimize supply chain logistics in the animal-feed industry and is supervised by Rob van der Mei (VU/CWI), Sandjai Bhulai (VU) and Joost Berkhout (VU). Our research focuses on the design of scalable and robust algorithms to integrate production and transport planning using traditional optimization techniques (MILP) and large-scale (meta)heuristics (local search, evolutionary algorithms).
 
 * Publications
@@ -33,15 +33,15 @@ Outside of work, I keep myself busy with cooking, practicing Chinese and tinkeri
     # Submited to PSCC 2022, 22nd Power Systems Computations Conference, Porto, Portugal, October 2021
 
 * Teaching
-** AY 21-22
+*** AY 21-22
 - [[./obp22.org][Optimization of Business Processes]]
 - Operations Research
 - Mathematical Optimization
 - Applied Stochastic Modeling
 
-** AY 20-21
-- Fall 2020: TA for Mathematical Optimization at VU
-- Spring 2020: TA for Statistics for Science at AUC
+*** AY 20-21
+- Mathematical Optimization
+- Statistics for Science
 
 * Blog
 - [[./blog/recommended_media.org][Recommended Blogs, Podcasts and Seminars for PhD Candidates in Operations Research]]
