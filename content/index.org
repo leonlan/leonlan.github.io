@@ -43,4 +43,4 @@ Outside of work, I keep myself busy with eating and cooking, practicing Chinese 
 - Statistics for Science
 
 * Blog
-- [[./blog/recommended_media.org][Recommended Blogs, Podcasts and Seminars for PhD Candidates in Operations Research]]
+- [[./blog/recommended_or_media.org][Recommended Blogs, Podcasts and Seminars for PhD Candidates in Operations Research]]

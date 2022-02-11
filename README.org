@@ -4,3 +4,6 @@ This repository contains the content for my personal website [[https://www.leonl
 
 * Inspiration list
 ** [[https://hugocisneros.com/][Hugo Cisneros]] :blog:
+** TODO https://joelchrono12.netlify.app/
+** TODO https://mikestone.me/
+** TODO https://github.com/kevquirk/simple.css
