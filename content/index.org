@@ -9,7 +9,7 @@ Hi, my name is Leon. I am a first-year PhD candidate at the Department of Mathem
 
 Previously, I obtained my bachelor's degree in Liberal Arts and Sciences at Amsterdam University College and I got my master’s degree in Operations Research at VU Amsterdam. I wrote my master's thesis about power networks and my supervisor was [[https://alessandrozocca.github.io/][Alessandro Zocca]].
 
-Outside of work, I keep myself busy with eating and cooking, practicing Chinese and tinkering with Emacs.
+# Outside of work, I keep myself busy with eating and cooking, practicing Chinese and tinkering with Emacs.
 
 
 @@html:<a href='mailto:l.lan@vu.nl'><i class="fa fa-envelope" style="font-size:24px"></i></a>@@
