@@ -13,8 +13,39 @@
 </head>
 <body>
 <div id="content">
-<div id="outline-container-org4579f3d" class="outline-2">
-<h2 id="org4579f3d">Work in progress</h2>
+<div id="outline-container-orgcfce8d0" class="outline-2">
+<h2 id="orgcfce8d0">Work in progress</h2>
+<div class="outline-text-2" id="text-orgcfce8d0">
+<div class="org-src-container">
+<pre class="src src-python"><span style="font-weight: bold;">class</span> <span style="font-weight: bold; text-decoration: underline;">Pizza</span>:
+    <span style="font-weight: bold;">def</span> <span style="font-weight: bold;">__init__</span>(<span style="font-weight: bold;">self</span>, ingredients):
+        <span style="font-weight: bold;">self</span>.ingredients = ingredients
+
+    <span style="font-weight: bold;">def</span> <span style="font-weight: bold;">__repr__</span>(<span style="font-weight: bold;">self</span>):
+        <span style="font-weight: bold;">return</span> f<span style="font-style: italic;">'Pizza({self.ingredients!r})'</span>
+
+    <span style="font-weight: bold; text-decoration: underline;">@classmethod</span>
+    <span style="font-weight: bold;">def</span> <span style="font-weight: bold;">margherita</span>(cls):
+        <span style="font-weight: bold;">return</span> cls([<span style="font-style: italic;">'mozzarella'</span>, <span style="font-style: italic;">'tomatoes'</span>])
+
+    <span style="font-weight: bold; text-decoration: underline;">@classmethod</span>
+    <span style="font-weight: bold;">def</span> <span style="font-weight: bold;">prosciutto</span>(cls):
+        <span style="font-weight: bold;">return</span> cls([<span style="font-style: italic;">'mozzarella'</span>, <span style="font-style: italic;">'tomatoes'</span>, <span style="font-style: italic;">'ham'</span>])
+</pre>
+</div>
+
+<div class="org-src-container">
+<pre class="src src-julia">function seq_rec(w, y, n)
+	d = length(w)
+	if n &lt;= d
+		return y[n]
+	else
+		return sum([w[i] * seq_rec(w, y, n-i) for i = 1:d])
+	end
+end
+</pre>
+</div>
+</div>
 </div>
 </div>
 <div id="postamble" class="status">
