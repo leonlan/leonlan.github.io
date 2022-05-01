@@ -15,7 +15,7 @@ A /research tech stack/ as the set of technologies that a researcher uses to do 
 - [[https://www.citationgecko.com/][Citation Gecko]] :: A search tool to find the most relevant papers to my current research.
 
 ** Writing
-- [[projects://www.latex-project.org/][LaTeX]] :: Markup language to write mathematical (and non-mathematical!) documents.
+- [[https://www.latex-project.org/][LaTeX]] :: Markup language to write mathematical (and non-mathematical!) documents.
 - [[https://overleaf.com][Overleaf]] :: An online LaTeX editor for collaborative writing. Useful in collaborative research projects.
 - [[https://ia.net/writer][iA Writer]] :: Markdown text editor for a visually pleasant writing experience.
 - [[https://orgmode.org/][Org mode]] :: Markup language for creating rich plain text notes. More powerful than Markdown.
