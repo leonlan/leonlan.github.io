@@ -1,0 +1,37 @@
+#+title: Research tech stack
+#+AUTHOR: Leon Lan
+#+EMAIL: leon.lanyidong@gmail.com
+#+CREATED: [2022-05-01 Sun 11:53]
+#+SETUPFILE: ~/Dropbox/config/latex/org-latex.setup
+#+BIBLIOGRAPHY: ~/Dropbox/bib/bibliography.bib
+#+filetags: blog
+* Introduction
+A /research tech stack/ as the set of technologies that a researcher uses to do research. In my personal research this includes tools for reading, writing, programming and managing. The list below is an accumulation of tools that I have found to be productive in my research work.
+
+* Research Tech Stack
+** Reading
+- [[https://www.zotero.org/][Zotero]] :: Open-source bibliography management software. The bread-and-butter of my research stack.
+- [[https://scholar.google.com/][Google Scholar]] :: Besides being a helpful search engine to look for papers, it also provides a way to stay up-to-date with the latest research publications.
+- [[https://www.citationgecko.com/][Citation Gecko]] :: A search tool to find the most relevant papers to my current research.
+
+** Writing
+- [[projects://www.latex-project.org/][LaTeX]] :: Markup language to write mathematical (and non-mathematical!) documents.
+- [[https://overleaf.com][Overleaf]] :: An online LaTeX editor for collaborative writing. Useful in collaborative research projects.
+- [[https://ia.net/writer][iA Writer]] :: Markdown text editor for a visually pleasant writing experience.
+- [[https://orgmode.org/][Org mode]] :: Markup language for creating rich plain text notes. More powerful than Markdown.
+- [[https://www.orgroam.com/][Zettelkasten (org-roam)]] :: Personal knowledge management system for note-taking. I use =org-roam= in Emacs, but [[https://obsidian.md/][Obsidian]] is a good markdown-based alternative.
+
+** Programming
+- [[https://www.python.org/][Python]] :: My first programming language and also the one I'm most fluent in. I use it for rapid prototyping.
+- [[https://julialang.org/][Julia]] :: As easy as Python, but as fast as C++. I use Julia when I need better computational performance.
+- [[https://git-scm.com/][Git]] :: Version control tool to 1) back-up everything I do and 2) to collaborate with others on software. I mainly use [[https://github.com/][GitHub]].
+- [[https://www.gnu.org/software/emacs/][Emacs]] :: My favorite text-editor. I use the [[https://github.com/hlissner/doom-emacs][Doom]] framework.
+
+** Managing
+- [[https://todoist.com][Todoist]] :: Task management software. I use this on a daily basis for short-term projects and general to-do management.
+- [[https://airtable.com][Airtable]] :: Project management software. I use this mainly to get a bird's eye view on my long-term projects and to make [[https://en.wikipedia.org/wiki/Gantt_chart][Gantt charts]]. Free 2-year pro trial available for students [[https://support.airtable.com/hc/en-us/articles/360008649233-Nonprofit-and-educational-plans-FAQs][here]].
+- [[https://slack.com/][Slack]] :: Easy-to-use communication platform with support for threads to keep discussion channels free from clutter.
+
+** Other
+- [[https://www.inoreader.com][Inoreader]] :: RSS feed reader to keep track of the latest blog posts.
+- [[https://twitter.com][Twitter]] :: A fun and informal way to stay up to date with academia.

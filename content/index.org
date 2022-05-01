@@ -33,14 +33,16 @@ Previously, I obtained my bachelor's degree in Liberal Arts and Sciences at Amst
 
 * Teaching
 *** AY 21-22
-- [[./obp22.org][Optimization of Business Processes]]
-- Operations Research
-- Mathematical Optimization
-- Applied Stochastic Modeling
+- [[https://studiegids.vu.nl/en/Bachelor/2021-2022/business-analytics/X_400645][Project Big Data]]
+- [[https://studiegids.vu.nl/en/Master/2021-2022/business-analytics/X_400422][Optimization of Business Processes]]
+- [[https://studiegids.vu.nl/en/Bachelor/2021-2022/business-analytics/X_400618][Operations Research]]
+- [[https://studiegids.vu.nl/en/Master/2021-2022/business-analytics/XM_0051][Mathematical Optimization]]
+- [[https://studiegids.vu.nl/en/Master/2021-2022/business-analytics/X_400392][Applied Stochastic Modeling]]
 
-*** AY 20-21
-- Mathematical Optimization
-- Statistics for Science
+# *** AY 20-21
+# - Mathematical Optimization
+# - Statistics for Science
 
 * Blog
 - [[./blog/recommended_or_media.org][Recommended Blogs, Podcasts and Seminars for PhD Candidates in Operations Research]]
+- [[./blog/research_tech_stack.org][Research tech stack]]
