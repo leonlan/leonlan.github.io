@@ -33,6 +33,7 @@ Previously, I obtained my bachelor's degree in Liberal Arts and Sciences at Amst
 
 * Teaching
 *** AY 21-22
+I'm assisting in the following courses:
 - [[https://studiegids.vu.nl/en/Bachelor/2021-2022/business-analytics/X_400645][Project Big Data]]
 - [[https://studiegids.vu.nl/en/Master/2021-2022/business-analytics/X_400422][Optimization of Business Processes]]
 - [[https://studiegids.vu.nl/en/Bachelor/2021-2022/business-analytics/X_400618][Operations Research]]

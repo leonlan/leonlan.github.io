@@ -1,2 +1,29 @@
 #+TITLE: Optimization of Business Processes 2022
 * Work in progress
+#+begin_src python
+class Pizza:
+    def __init__(self, ingredients):
+        self.ingredients = ingredients
+
+    def __repr__(self):
+        return f'Pizza({self.ingredients!r})'
+
+    @classmethod
+    def margherita(cls):
+        return cls(['mozzarella', 'tomatoes'])
+
+    @classmethod
+    def prosciutto(cls):
+        return cls(['mozzarella', 'tomatoes', 'ham'])
+#+end_src
+
+#+begin_src julia
+function seq_rec(w, y, n)
+	d = length(w)
+	if n <= d
+		return y[n]
+	else
+		return sum([w[i] * seq_rec(w, y, n-i) for i = 1:d])
+	end
+end
+#+end_src
