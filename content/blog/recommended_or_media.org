@@ -28,24 +28,15 @@ For a larger overview of OR blogs, you can check out this [[https://mat.tepper.c
 - [[https://open.spotify.com/show/0y9iaOPfmkMCUm2vaXQeDh?si=9f7840cd7c734895][Optimizing You - Anthony Karahalios]]
 
 * Seminars
-# What I like the most about seminars are the Q&A's: asking questions to has helped me to increase my understanding. Below I listed five seminars here that are (1) hosted online and (2) accessible to anyone.
 - [[https://schedulingseminar.com/][Scheduling seminar]]
-    # :: A bi-weekly seminar to present the newest scheduling research and to survey traditional areas.
-  # - Example: [[https://www.youtube.com/watch?v=F3Ykma1eqnY][State-of-the-art heuristics jfor flowshop scheduling by Rubén Ruiz]]
 - [[https://www.euro-online.org/websites/verolog/webinar/][VeRoLog webinar]]
-  # ::  A monthly seminar of plenary talks, paper presentations from academia and/or industry as well as interviews with famous researchers from the VeRoLog (i.e., VRP and logistics) community.
-  # - Example: [[https://www.euro-online.org/websites/verolog/webinar/][Strategic berth template problems by Elena Fernández]]
 - [[https://portals.project.cwi.nl/dutch-optimization-seminar/dutch-optimization-seminar][Dutch Seminar on Optimization]]
-# :: A monthly seminar organized by the Dutch Optimization community on topics related to (but not limited to) the theoretical foundations of discrete and continuous optimization.
 - [[https://talks.discreteopt.com/][Discrete Optimization Talks]]
-    # :: A monthly seminar organized by Aleksandr M. Kazachkov and Elias B. Khalil. on theoretical, computational and applied aspects of integer and combinatorial optimization.
 - [[https://www.youtube.com/channel/UCrLq5M3GjRRGYLHBM4Carfg/videos][ISyE Seminar Series]]
-# :: Monthly seminar series organized by the department of Industrial and Systems Engineering, University of Minnesota. Recent videos are uploaded on their [[https://www.youtube.com/channel/UCrLq5M3GjRRGYLHBM4Carfg/videos][Youtube]] channel.
 - [[https://congreso.us.es/mlneedsmo/][Machine Learning NeEDS Mathematical Optimization]]
-# :: Monthly seminar series organized in the field of Data Science and Analytics where mathematical modeling and optimization plays an important role.
 
 * Other recommendations
-Here are some other recommendations that may be of interests, but do not belong to any of the categories above.
+Here are some other recommendations that may be of interest, but do not belong to any of the categories above.
 - [[https://or.stackexchange.com/][OR StackExchange]]
 - [[https://www.hsu-hh.de/logistik/research/challenges][Optimization Challenges]]
 - [[https://twitter.com/i/lists/1488062354482999299?s=20&t=_8Fb_UDyeITZRpPQQRReSA][OR Twitter]]
