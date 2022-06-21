@@ -6,9 +6,12 @@
 #+SETUPFILE: ~/Dropbox/config/latex/org-latex.setup
 #+BIBLIOGRAPHY: ~/Dropbox/bib/bibliography.bib
 * Introduction
-As a freshly-started PhD Candidate in Operations Research (OR), I have read dozens of books and papers to familiarize myself with the state-of-the-art. The academic literature is obviously one of the best places to find this information, but it's not the only place where you can learn about state-of-the-art OR. Media such as blogs, podcasts and seminars have also been a valuable resource to enhancing my understanding of OR. These outlets present informal discussions - uncommon in the academic literature - and listening to an [[https://www.youtube.com/watch?v=F3Ykma1eqnY][1-hour talk]] of the inventor of the state-of-the-art algorithm in flow shop scheduling is a lot easier than reading his [[https://scholar.google.com/citations?user=aTVU3eoAAAAJ&hl=nl&oi=ao][100+ publications]] on that same topic.
+As a freshly-started PhD Candidate in Operations Research (OR), I have read dozens of academic books and papers to familiarize myself with the state-of-the-art. The academic literature is obviously one of the best places to find this information, but it's not the only place where you can learn about OR.
 
-Below I present my curated list of blogs, podcasts and seminars that are of interests to PhD Candidates in OR.
+The OR community is also active in media outlets such as blogs, podcasts and seminars. These outlets have been a valuable source of information to me, and in many cases, I even learn about things that are near impossible to find in the academic literature.
+# For example, this [[https://www.youtube.com/watch?v=F3Ykma1eqnY][1-hour seminar]] by Ruben Ruiz on state-of-the-art algorithm in flow shop scheduling was helpful - much easier than reading the [[https://scholar.google.com/citations?user=aTVU3eoAAAAJ&hl=nl&oi=ao][100+ publications]] on that same topic (there's no survey on this topic). Another example is [[https://www.youtube.com/channel/UCrLq5M3GjRRGYLHBM4Carfg/videos][this interview]] with Thibaut Vidal, in which he talks about the development of the hybrid genetic search algorithm - currently the-state-of-the-art in vehicle routing problems.
+
+So, without further ado, let me present my list of blogs, podcasts and seminars that I think are of interest to other PhD Candidates in OR.
 
 * Blogs
 - [[https://yetanothermathprogrammingconsultant.blogspot.com/][Yet Another Math Programming Consultant - Erwin Kalvelagen]]
