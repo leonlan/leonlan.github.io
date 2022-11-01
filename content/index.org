@@ -5,11 +5,11 @@
 #+ATTR_HTML: :width 294px :height 304px
 [[file:img/LeonLan_HeadshotCropped.jpg]]
 
-Hi, my name is Leon. I am a first-year PhD candidate at the Department of Mathematics of VU Amsterdam. My research interests are production scheduling, vehicle routing problems and the integration of these two optimization problems.
+Hi, my name is Leon. I am a second-year PhD candidate at the Department of Mathematics of VU Amsterdam. My research interests are production scheduling, vehicle routing problems and the integration of these two optimization problems.
 
 Previously, I obtained my bachelor's degree in Liberal Arts and Sciences at Amsterdam University College and I got my master’s degree in Operations Research at VU Amsterdam. I wrote my master's thesis about power networks and my supervisor was [[https://alessandrozocca.github.io/][Alessandro Zocca]].
 
-# Outside of work, I keep myself busy with eating and cooking, practicing Chinese and tinkering with Emacs.
+# Outside of work, I keep myself busy with eating and cooking.
 
 
 @@html:<a href='mailto:l.lan@vu.nl'><i class="fa fa-envelope" style="font-size:24px"></i></a>@@
@@ -31,19 +31,19 @@ Previously, I obtained my bachelor's degree in Liberal Arts and Sciences at Amst
     # Leon Lan, Alessandro Zocca
     # Submited to PSCC 2022, 22nd Power Systems Computations Conference, Porto, Portugal, October 2021
 
-* Teaching
-*** AY 21-22
-I'm assisting in the following courses:
-- [[https://studiegids.vu.nl/en/Bachelor/2021-2022/business-analytics/X_400645][Project Big Data]]
-- [[https://studiegids.vu.nl/en/Master/2021-2022/business-analytics/X_400422][Optimization of Business Processes]]
-- [[https://studiegids.vu.nl/en/Bachelor/2021-2022/business-analytics/X_400618][Operations Research]]
-- [[https://studiegids.vu.nl/en/Master/2021-2022/business-analytics/XM_0051][Mathematical Optimization]]
-- [[https://studiegids.vu.nl/en/Master/2021-2022/business-analytics/X_400392][Applied Stochastic Modeling]]
+# * Teaching
+# *** AY 21-22
+# I'm assisting in the following courses:
+# - [[https://studiegids.vu.nl/en/Bachelor/2021-2022/business-analytics/X_400645][Project Big Data]]
+# - [[https://studiegids.vu.nl/en/Master/2021-2022/business-analytics/X_400422][Optimization of Business Processes]]
+# - [[https://studiegids.vu.nl/en/Bachelor/2021-2022/business-analytics/X_400618][Operations Research]]
+# - [[https://studiegids.vu.nl/en/Master/2021-2022/business-analytics/XM_0051][Mathematical Optimization]]
+# - [[https://studiegids.vu.nl/en/Master/2021-2022/business-analytics/X_400392][Applied Stochastic Modeling]]
 
 # *** AY 20-21
 # - Mathematical Optimization
 # - Statistics for Science
 
-* Blog
-- [[./blog/recommended_or_media.org][Recommended Blogs, Podcasts and Seminars for PhD Candidates in Operations Research]]
-- [[./blog/research_tech_stack.org][Research tech stack]]
+# * Blog
+# - [[./blog/recommended_or_media.org][Recommended Blogs, Podcasts and Seminars for PhD Candidates in Operations Research]]
+# - [[./blog/research_tech_stack.org][Research tech stack]]
