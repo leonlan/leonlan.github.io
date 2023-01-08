@@ -1,9 +1,0 @@
-#+title: Personal website
-* Introduction
-This repository contains the content for my personal website [[https://www.leonlan.com][www.leonlan.com]]. The website is built with [[https://orgmode.org][Org Mode]]. Check out the [[https://systemcrafters.net/publishing-websites-with-org-mode/][Publishing Websites with Org Mode]] series to learn how this was created!
-
-* Inspiration list
-** [[https://hugocisneros.com/][Hugo Cisneros]] :blog:
-** TODO https://joelchrono12.netlify.app/
-** TODO https://mikestone.me/
-** TODO https://github.com/kevquirk/simple.css
