@@ -12,7 +12,7 @@ I obtained my bachelor's degree in Liberal Arts and Sciences at Amsterdam Univer
 @@html:<a href='mailto:l.lan@vu.nl'><i class="fa fa-envelope" style="font-size:24px"></i></a>@@
 @@html:<a href='https://www.linkedin.com/in/leonlan/'><i class="fa fa-linkedin" style="font-size:24px"></i></a>@@
 @@html:<a href='https://github.com/leonlan'><i class="fa fa-github" style="font-size:24px"></i></a>@@
-@@html:<a href='https://scholar.google.com/citations?user=2yM55FwAAAAJ&hl=en'><i class="fa fa-graduation-ca" style="font-size:24px"></i></a>@@
+@@html:<a href='https://scholar.google.com/citations?user=2yM55FwAAAAJ&hl=en'><i class="fa fa-graduation-cap" style="font-size:24px"></i></a>@@
 
 * Projects
 - *[[https://www.dinalog.nl/project/ai-bipto-artificial-intelligence-boosted-integrated-production-and-transport-optimization/][Integrating production scheduling and vehicle routing with limited storage]]* :: My main PhD project. Together with our industry partners, we are investigating a large-scale optimization problem, consisting of a hybrid flexible flow shop, multi-trip vehicle routing problem and limited intermediate storage.
