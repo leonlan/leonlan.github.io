@@ -1,7 +1,7 @@
 #+TITLE: Leon Lan
 #+OPTIONS: toc:nil
 
-* About me
+* Leon Lan
 #+ATTR_HTML: :width 294px :height 304px
 [[file:img/LeonLan_Profile2022.jpg]]
 
@@ -11,17 +11,15 @@ I obtained my bachelor's degree in Liberal Arts and Sciences at Amsterdam Univer
 
 @@html:<a href='mailto:l.lan@vu.nl'><i class="fa fa-envelope" style="font-size:24px"></i></a>@@
 @@html:<a href='https://www.linkedin.com/in/leonlan/'><i class="fa fa-linkedin" style="font-size:24px"></i></a>@@
-@@html:<a href='https://twitter.com/leonlan_'><i class="fa fa-twitter" style="font-size:24px"></i></a>@@
 @@html:<a href='https://github.com/leonlan'><i class="fa fa-github" style="font-size:24px"></i></a>@@
-@@html:<a href='https://scholar.google.com/citations?user=2yM55FwAAAAJ&hl=en'><i class="fa fa-google" style="font-size:24px"></i></a>@@
+@@html:<a href='https://scholar.google.com/citations?user=2yM55FwAAAAJ&hl=en'><i class="fa fa-graduation-ca" style="font-size:24px"></i></a>@@
 
-* Current projects
-- *[[https://www.dinalog.nl/project/ai-bipto-artificial-intelligence-boosted-integrated-production-and-transport-optimization/][Integrating production scheduling and vehicle routing with limited storage]]* :: My first PhD project. Together with our industry partners, we are investigating a large-scale optimization problem, consisting of a hybrid flexible flow shop, multi-trip vehicle routing problem and limited intermediate storage.
+* Projects
+- *[[https://www.dinalog.nl/project/ai-bipto-artificial-intelligence-boosted-integrated-production-and-transport-optimization/][Integrating production scheduling and vehicle routing with limited storage]]* :: My main PhD project. Together with our industry partners, we are investigating a large-scale optimization problem, consisting of a hybrid flexible flow shop, multi-trip vehicle routing problem and limited intermediate storage.
 - *[[https://github.com/PyVRP/pyvrp][PyVRP]]* :: Open-source, state-of-the-art vehicle routing solver in Python.
 - *[[https://github.com/leonlan/CVRPLIB][CVRPLIB]]* :: Python library to read and download vehicle routing problem instances.
 - *[[https://github.com/N-Wouda/ALNS][ALNS]]* :: Python implementation of the adaptive large neighborhood search (ALNS) metaheuristic.
-- *[[https://github.com/N-Wouda/Euro-NeurIPS-2022][EURO-NeurIPS 2022]]* :: Competition involving static and dynamic vehicle routing problems with time windows. Our team ranked second place.
-
+- *[[https://github.com/N-Wouda/Euro-NeurIPS-2022][EURO-NeurIPS 2022]]* :: Competition involving static and dynamic vehicle routing problems with time windows. Our team, OptiML, ranked second place.
 
 * Publications
 1. Wouda, N. A., & Lan, L. (2023). ALNS: A Python implementation of the adaptive large neighbourhood search metaheuristic. Journal of Open Source Software, 8(81), 5028. https://doi.org/10.21105/joss.05028
