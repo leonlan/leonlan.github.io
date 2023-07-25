@@ -3,51 +3,25 @@
 
 * About me
 #+ATTR_HTML: :width 294px :height 304px
-[[file:img/LeonLan_HeadshotCropped.jpg]]
+[[file:img/LeonLan_Profile2022.jpg]]
 
 Hi, my name is Leon! I am a second-year PhD candidate at the Department of Mathematics of VU Amsterdam. My research interests include production scheduling, vehicle routing problems and metaheuristics.
 
 I obtained my bachelor's degree in Liberal Arts and Sciences at Amsterdam University College and I got my master’s degree in Operations Research at VU Amsterdam. I wrote my master's thesis about power networks and my supervisor was [[https://alessandrozocca.github.io/][Alessandro Zocca]].
 
-@@html:<a href='mailto:l.lan@vu.nl'><i class="fa fa-envelope" style="font-size:36px"></i></a>@@
-@@html:<a href='https://www.linkedin.com/in/leonlan/'><i class="fa fa-linkedin" style="font-size:36px"></i></a>@@
-@@html:<a href='https://twitter.com/leonlan_'><i class="fa fa-twitter" style="font-size:36px"></i></a>@@
-@@html:<a href='https://github.com/leonlan'><i class="fa fa-github" style="font-size:36px"></i></a>@@
-@@html:<a href='https://scholar.google.com/citations?user=2yM55FwAAAAJ&hl=en'><i class="fa fa-google" style="font-size:36px"></i></a>@@
-@@html:<a href='https://drive.google.com/file/d/1AfrOHoGAMO2yAyKEAroXPrCXXljfBfJZ/view'><i class="fa fa-file-text" style="font-size:36px"></i></a>@@
+@@html:<a href='mailto:l.lan@vu.nl'><i class="fa fa-envelope" style="font-size:24px"></i></a>@@
+@@html:<a href='https://www.linkedin.com/in/leonlan/'><i class="fa fa-linkedin" style="font-size:24px"></i></a>@@
+@@html:<a href='https://twitter.com/leonlan_'><i class="fa fa-twitter" style="font-size:24px"></i></a>@@
+@@html:<a href='https://github.com/leonlan'><i class="fa fa-github" style="font-size:24px"></i></a>@@
+@@html:<a href='https://scholar.google.com/citations?user=2yM55FwAAAAJ&hl=en'><i class="fa fa-google" style="font-size:24px"></i></a>@@
 
 * Current projects
 - *[[https://www.dinalog.nl/project/ai-bipto-artificial-intelligence-boosted-integrated-production-and-transport-optimization/][Integrating production scheduling and vehicle routing with limited storage]]* :: My first PhD project. Together with our industry partners, we are investigating a large-scale optimization problem, consisting of a hybrid flexible flow shop, multi-trip vehicle routing problem and limited intermediate storage.
-- *[[https://euro-neurips-vrp-2022.challenges.ortec.com/][EURO-NeurIPS 2022]]* :: Competition involving static and dynamic vehicle routing problems with time windows. Our team, OptiML, consists of PhD candidates and professors from VU Amsterdam and the University of Groningen.
-- *[[https://github.com/N-Wouda/ALNS][ALNS]]* :: Full-featured Python implementation of the Adaptive Large Neighborhood Search metaheuristic. Contains a large collection of acceptance criteria, operator selection schemes and stopping criteria. Collaboration with [[https://nielswouda.com/][Niels Wouda]].
+- *[[https://github.com/PyVRP/pyvrp][PyVRP]]* :: Open-source, state-of-the-art vehicle routing solver in Python.
 - *[[https://github.com/leonlan/CVRPLIB][CVRPLIB]]* :: Python library to read and download vehicle routing problem instances.
-
+- *[[https://github.com/N-Wouda/ALNS][ALNS]]* :: Python implementation of the adaptive large neighborhood search (ALNS) metaheuristic.
+- *[[https://github.com/N-Wouda/Euro-NeurIPS-2022][EURO-NeurIPS 2022]]* :: Competition involving static and dynamic vehicle routing problems with time windows. Our team ranked second place.
 
 
 * Publications
-# ** Published
-** Preprints
-1. L. Lan and A. Zocca, “Refining bridge-block decompositions through two-stage and recursive tree partitioning,” arXiv:2110.06998 [cs, eess, math], Oct. 2021. https://arxiv.org/abs/2110.06998.
-2. L. Lan and A. Zocca, “An MILP-based approach to tree partitioning with minimal power flow disruption and generator coherency constraints,” arXiv:2110.07000 [cs, eess, math], Oct. 2021. https://arxiv.org/abs/2110.07000.
-
-   # Other style that doesn't work because of newlines:
-   # An MILP-based approach to tree partitioning with minimal power flow disruption and generator coherency constraints
-    # Leon Lan, Alessandro Zocca
-    # Submited to PSCC 2022, 22nd Power Systems Computations Conference, Porto, Portugal, October 2021
-
-# * Teaching
-# *** AY 21-22
-# I'm assisting in the following courses:
-# - [[https://studiegids.vu.nl/en/Bachelor/2021-2022/business-analytics/X_400645][Project Big Data]]
-# - [[https://studiegids.vu.nl/en/Master/2021-2022/business-analytics/X_400422][Optimization of Business Processes]]
-# - [[https://studiegids.vu.nl/en/Bachelor/2021-2022/business-analytics/X_400618][Operations Research]]
-# - [[https://studiegids.vu.nl/en/Master/2021-2022/business-analytics/XM_0051][Mathematical Optimization]]
-# - [[https://studiegids.vu.nl/en/Master/2021-2022/business-analytics/X_400392][Applied Stochastic Modeling]]
-
-# *** AY 20-21
-# - Mathematical Optimization
-# - Statistics for Science
-
-# * Blog
-# - [[./blog/recommended_or_media.org][Recommended Blogs, Podcasts and Seminars for PhD Candidates in Operations Research]]
-# - [[./blog/research_tech_stack.org][Research tech stack]]
+1. Wouda, N. A., & Lan, L. (2023). ALNS: A Python implementation of the adaptive large neighbourhood search metaheuristic. Journal of Open Source Software, 8(81), 5028. https://doi.org/10.21105/joss.05028
