@@ -7,8 +7,6 @@
 
 Hi, my name is Leon! I am a second-year PhD candidate at the Department of Mathematics of VU Amsterdam. My research interests include production scheduling, vehicle routing problems and metaheuristics.
 
-I obtained my bachelor's degree in Liberal Arts and Sciences at Amsterdam University College and I got my master’s degree in Operations Research at VU Amsterdam. I wrote my master's thesis about power networks and my supervisor was [[https://alessandrozocca.github.io/][Alessandro Zocca]].
-
 @@html:<a href='mailto:l.lan@vu.nl'><i class="fa fa-envelope" style="font-size:24px"></i></a>@@
 @@html:<a href='https://www.linkedin.com/in/leonlan/'><i class="fa fa-linkedin" style="font-size:24px"></i></a>@@
 @@html:<a href='https://github.com/leonlan'><i class="fa fa-github" style="font-size:24px"></i></a>@@
@@ -17,7 +15,7 @@ I obtained my bachelor's degree in Liberal Arts and Sciences at Amsterdam Univer
 * Projects
 - *[[https://www.dinalog.nl/project/ai-bipto-artificial-intelligence-boosted-integrated-production-and-transport-optimization/][Integrating production scheduling and vehicle routing with limited storage]]* :: My main PhD project. Together with our industry partners, we are investigating a large-scale optimization problem, consisting of a hybrid flexible flow shop, multi-trip vehicle routing problem and limited intermediate storage.
 - *[[https://github.com/PyVRP/pyvrp][PyVRP]]* :: Open-source, state-of-the-art vehicle routing solver in Python.
-- *[[https://github.com/leonlan/CVRPLIB][CVRPLIB]]* :: Python library to read and download vehicle routing problem instances.
+- *[[https://github.com/leonlan/VRPLIB][VRPLIB]]* :: Python library to read and download vehicle routing problem instances.
 - *[[https://github.com/N-Wouda/ALNS][ALNS]]* :: Python implementation of the adaptive large neighborhood search (ALNS) metaheuristic.
 - *[[https://github.com/N-Wouda/Euro-NeurIPS-2022][EURO-NeurIPS 2022]]* :: Competition involving static and dynamic vehicle routing problems with time windows. Our team, OptiML, ranked second place.
 
