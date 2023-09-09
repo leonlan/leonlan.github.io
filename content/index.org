@@ -5,7 +5,7 @@
 #+ATTR_HTML: :width 294px :height 304px
 [[file:img/LeonLan_Profile2022.jpg]]
 
-Hi, my name is Leon! I am a second-year PhD candidate at the Department of Mathematics of VU Amsterdam. My research interests include production scheduling, vehicle routing problems and metaheuristics.
+Hey, I'm Leon! I am a third-year PhD candidate at the Department of Mathematics of VU Amsterdam. I study models and algorithms to solve real-world production scheduling and vehicle routing problems.
 
 @@html:<a href='mailto:l.lan@vu.nl'><i class="fa fa-envelope" style="font-size:24px"></i></a>@@
 @@html:<a href='https://www.linkedin.com/in/leonlan/'><i class="fa fa-linkedin" style="font-size:24px"></i></a>@@
@@ -13,7 +13,7 @@ Hi, my name is Leon! I am a second-year PhD candidate at the Department of Mathe
 @@html:<a href='https://scholar.google.com/citations?user=2yM55FwAAAAJ&hl=en'><i class="fa fa-graduation-cap" style="font-size:24px"></i></a>@@
 
 * Projects
-- *[[https://www.dinalog.nl/project/ai-bipto-artificial-intelligence-boosted-integrated-production-and-transport-optimization/][Integrating production scheduling and vehicle routing with limited storage]]* :: My main PhD project. Together with our industry partners, we are investigating a large-scale optimization problem, consisting of a hybrid flexible flow shop, multi-trip vehicle routing problem and limited intermediate storage.
+- *[[https://www.dinalog.nl/project/ai-bipto-artificial-intelligence-boosted-integrated-production-and-transport-optimization/][Integrating production scheduling and vehicle routing with limited storage]]* :: My main PhD project. Together with our industry partners, we are investigating a large-scale optimization problem, consisting of a flexible job shop, multi-trip vehicle routing problem and limited intermediate storage.
 - *[[https://github.com/PyVRP/pyvrp][PyVRP]]* :: Open-source, state-of-the-art vehicle routing solver in Python.
 - *[[https://github.com/leonlan/VRPLIB][VRPLIB]]* :: Python library to read and download vehicle routing problem instances.
 - *[[https://github.com/N-Wouda/ALNS][ALNS]]* :: Python implementation of the adaptive large neighborhood search (ALNS) metaheuristic.
@@ -21,3 +21,7 @@ Hi, my name is Leon! I am a second-year PhD candidate at the Department of Mathe
 
 * Publications
 1. Wouda, N. A., & Lan, L. (2023). ALNS: A Python implementation of the adaptive large neighbourhood search metaheuristic. Journal of Open Source Software, 8(81), 5028. https://doi.org/10.21105/joss.05028
+
+* Submitted
+1. Lan, L., & Zocca, A. (2023). Mixed-integer linear programming approaches for tree partitioning of power networks (arXiv:2110.07000). arXiv. https://doi.org/10.48550/arXiv.2110.07000
+2. Lan, L., van Doorn, J., Wouda, N. A., Rijal, A., & Bhulai, S. (2023). An iterative conditional dispatch algorithm for the dynamic dispatch waves problem (arXiv:2308.14476). arXiv. https://doi.org/10.48550/arXiv.2308.14476
