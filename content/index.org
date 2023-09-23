@@ -17,11 +17,13 @@ Hey, I'm Leon! I am a third-year PhD candidate at the Department of Mathematics 
 - *[[https://github.com/PyVRP/pyvrp][PyVRP]]* :: Open-source, state-of-the-art vehicle routing solver in Python.
 - *[[https://github.com/leonlan/VRPLIB][VRPLIB]]* :: Python library to read and download vehicle routing problem instances.
 - *[[https://github.com/N-Wouda/ALNS][ALNS]]* :: Python implementation of the adaptive large neighborhood search (ALNS) metaheuristic.
-- *[[https://github.com/N-Wouda/Euro-NeurIPS-2022][EURO-NeurIPS 2022]]* :: Competition involving static and dynamic vehicle routing problems with time windows. Our team, OptiML, ranked second place.
+- *[[https://github.com/leonlan/fjsp][FJSP]]* :: Constraint programming for rich flexible job shop problems.
 
 * Publications
 1. Wouda, N. A., & Lan, L. (2023). ALNS: A Python implementation of the adaptive large neighbourhood search metaheuristic. Journal of Open Source Software, 8(81), 5028. https://doi.org/10.21105/joss.05028
 
 * Submitted
-1. Lan, L., & Zocca, A. (2023). Mixed-integer linear programming approaches for tree partitioning of power networks (arXiv:2110.07000). arXiv. https://doi.org/10.48550/arXiv.2110.07000
-2. Lan, L., van Doorn, J., Wouda, N. A., Rijal, A., & Bhulai, S. (2023). An iterative conditional dispatch algorithm for the dynamic dispatch waves problem (arXiv:2308.14476). arXiv. https://doi.org/10.48550/arXiv.2308.14476
+1. Lan, L., & Zocca, A. (2023). Mixed-integer linear programming approaches for tree partitioning of power networks (arXiv:2110.07000). arXiv. https://doi.org/10.48550/arXiv.2110.07000. ([[https://github.com/leonlan/tree-partitioning][Code]])
+2. Lan, L., van Doorn, J., Wouda, N. A., Rijal, A., & Bhulai, S. (2023). An iterative conditional dispatch algorithm for the dynamic dispatch waves problem (arXiv:2308.14476). arXiv. https://doi.org/10.48550/arXiv.2308.14476. ([[https://github.com/leonlan/dynamic-dispatch-waves][Code]])
+3. Wouda, N. A., Lan, L., & Kool, W. (2023). PyVRP: a high-performance VRP solver package. ([[https://github.com/PyVRP/PyVRP][Code]])
+4. Bekker, R., Bharti, B., Lan, L., & Mandjes, M. (2023). A queueing-based approach for integrated routing and appointment scheduling. ([[https://github.com/leonlan/routing-appointment-scheduling][Code]])
