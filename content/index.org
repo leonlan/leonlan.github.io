@@ -20,8 +20,7 @@ Hey, I'm Leon! I am a third-year PhD candidate at the Department of Mathematics 
 
 * Publications
 1. Wouda, N. A., & Lan, L. (2023). ALNS: A Python implementation of the adaptive large neighbourhood search metaheuristic. Journal of Open Source Software, 8(81), 5028. https://doi.org/10.21105/joss.05028. ([[https://github.com/N-Wouda/ALNS][Code]]).
-2. Wouda, N. A., Lan, L., & Kool, W. (2023). PyVRP: a high-performance VRP solver package. INFORMS Journal on Computing. https://doi.org/10.1287/ijoc.2023.0055
-([[https://github.com/PyVRP/PyVRP][Code]]).
+2. Wouda, N. A., Lan, L., & Kool, W. (2023). PyVRP: a high-performance VRP solver package. INFORMS Journal on Computing. https://doi.org/10.1287/ijoc.2023.0055. ([[https://github.com/PyVRP/PyVRP][Code]]).
 
 * Submitted
 1. Lan, L., & Zocca, A. (2023). Mixed-integer linear programming approaches for tree partitioning of power networks (arXiv:2110.07000). arXiv. https://doi.org/10.48550/arXiv.2110.07000. ([[https://github.com/leonlan/tree-partitioning][Code]]).
