@@ -5,7 +5,7 @@
 #+ATTR_HTML: :width 294px :height 304px
 [[file:img/LeonLan_Profile2022.jpg]]
 
-Hey, I'm Leon! I am a third-year PhD candidate at the Department of Mathematics of VU Amsterdam. I work on models and algorithms for real-world production scheduling and vehicle routing problems.
+Hey, I'm Leon! I am a third-year PhD candidate at the Department of Mathematics of VU Amsterdam. I work on models and algorithms for real-world machine scheduling and vehicle routing problems.
 
 @@html:<a href='mailto:l.lan@vu.nl'><i class="fa fa-envelope" style="font-size:20px"></i></a>@@
 @@html:<a href='https://www.linkedin.com/in/leonlan/'><i class="fa fa-linkedin" style="font-size:20px"></i></a>@@
@@ -13,16 +13,16 @@ Hey, I'm Leon! I am a third-year PhD candidate at the Department of Mathematics 
 @@html:<a href='https://scholar.google.com/citations?user=2yM55FwAAAAJ&hl=en'><i class="fa fa-graduation-cap" style="font-size:20px"></i></a>@@
 
 * Projects
-- *[[https://github.com/PyVRP/pyvrp][PyVRP]]* :: Open-source, state-of-the-art vehicle routing solver in Python.
-- *[[https://github.com/leonlan/VRPLIB][VRPLIB]]* :: Python library to read and download vehicle routing problem instances.
-- *[[https://github.com/N-Wouda/ALNS][ALNS]]* :: Python implementation of the adaptive large neighborhood search (ALNS) metaheuristic.
+- *[[https://github.com/PyVRP/pyvrp][PyVRP]]* :: An open-source, state-of-the-art vehicle routing problem solver in Python.
+- *[[https://github.com/leonlan/VRPLIB][VRPLIB]]* :: Python library to read and write vehicle routing problem instances.
 - *[[https://github.com/leonlan/pyjobshop][PyJobShop]]* :: Constraint programming for real-world job shop scheduling problems.
+- *[[https://github.com/N-Wouda/ALNS][ALNS]]* :: Python implementation of the adaptive large neighborhood search (ALNS) metaheuristic.
 
 * Publications
-1. Wouda, N. A., & Lan, L. (2023). ALNS: A Python implementation of the adaptive large neighbourhood search metaheuristic. Journal of Open Source Software, 8(81), 5028. https://doi.org/10.21105/joss.05028. ([[https://github.com/N-Wouda/ALNS][Code]]).
-2. Wouda, N. A., Lan, L., & Kool, W. (2023). PyVRP: a high-performance VRP solver package. INFORMS Journal on Computing. https://doi.org/10.1287/ijoc.2023.0055. ([[https://github.com/PyVRP/PyVRP][Code]]).
+1. Lan, L., van Doorn, J., Wouda, N. A., Rijal, A., & Bhulai, S. (2023). An iterative sample scenario approach for the dynamic dispatch waves problem. Transportation Science. Forthcoming. https://doi.org/10.48550/arXiv.2308.14476. ([[https://github.com/leonlan/dynamic-dispatch-waves][Code]]).
+3. Wouda, N. A., Lan, L., & Kool, W. (2023). PyVRP: a high-performance VRP solver package. INFORMS Journal on Computing. https://doi.org/10.1287/ijoc.2023.0055. ([[https://github.com/PyVRP/PyVRP][Code]]).
+2. Wouda, N. A., & Lan, L. (2023). ALNS: A Python implementation of the adaptive large neighbourhood search metaheuristic. Journal of Open Source Software, 8(81), 5028. https://doi.org/10.21105/joss.05028. ([[https://github.com/N-Wouda/ALNS][Code]]).
 
 * Submitted
 1. Lan, L., & Zocca, A. (2023). Mixed-integer linear programming approaches for tree partitioning of power networks (arXiv:2110.07000). arXiv. https://doi.org/10.48550/arXiv.2110.07000. ([[https://github.com/leonlan/tree-partitioning][Code]]).
-2. Lan, L., van Doorn, J., Wouda, N. A., Rijal, A., & Bhulai, S. (2023). An iterative conditional dispatch algorithm for the dynamic dispatch waves problem (arXiv:2308.14476). arXiv. https://doi.org/10.48550/arXiv.2308.14476. ([[https://github.com/leonlan/dynamic-dispatch-waves][Code]]).
-3. Bekker, R., Bharti, B., Lan, L., & Mandjes, M. (2023). A queueing-based approach for integrated routing and appointment scheduling (arXiv:2312.02715). arXiv. https://doi.org/10.48550/arXiv.2312.02715. ([[https://github.com/leonlan/routing-appointment-scheduling][Code]]).
+2. Bekker, R., Bharti, B., Lan, L., & Mandjes, M. (2023). A queueing-based approach for integrated routing and appointment scheduling (arXiv:2312.02715). arXiv. https://doi.org/10.48550/arXiv.2312.02715. ([[https://github.com/leonlan/routing-appointment-scheduling][Code]]).
