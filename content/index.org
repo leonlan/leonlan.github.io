@@ -20,10 +20,10 @@ Hey, I'm Leon! I am a third-year PhD candidate at the Department of Mathematics 
 
 * Research
 ** Accepted
-1. Lan, L., van Doorn, J., Wouda, N. A., Rijal, A., & Bhulai, S. (2024). An iterative sample scenario approach for the dynamic dispatch waves problem. Transportation Science. Forthcoming. https://doi.org/10.48550/arXiv.2308.14476. ([[https://github.com/leonlan/dynamic-dispatch-waves][Code]]).
-2. Wouda, N. A., Lan, L., & Kool, W. (2024). PyVRP: a high-performance VRP solver package. INFORMS Journal on Computing. Forthcoming. https://doi.org/10.1287/ijoc.2023.0055. ([[https://github.com/PyVRP/PyVRP][Code]]).
-3. Wouda, N. A., & Lan, L. (2023). ALNS: A Python implementation of the adaptive large neighbourhood search metaheuristic. Journal of Open Source Software, 8(81), 5028. https://doi.org/10.21105/joss.05028. ([[https://github.com/N-Wouda/ALNS][Code]]).
+1. Lan, L., van Doorn, J., Wouda, N. A., Rijal, A., & Bhulai, S. (2024). An iterative sample scenario approach for the dynamic dispatch waves problem. [[https://pubsonline.informs.org/doi/10.1287/trsc.2023.0111][Transportation Science, forthcoming]]. ([[https://github.com/leonlan/dynamic-dispatch-waves][Code]]).
+2. Wouda, N. A., Lan, L., & Kool, W. (2024). PyVRP: a high-performance VRP solver package. [[https://doi.org/10.1287/ijoc.2023.0055][INFORMS Journal on Computing, forthcoming]]. ([[https://github.com/PyVRP/PyVRP][Code]]).
+3. Wouda, N. A., & Lan, L. (2023). ALNS: A Python implementation of the adaptive large neighbourhood search metaheuristic. [[https://doi.org/10.21105/joss.05028][Journal of Open Source Software, 8(81), 5028]].
 
 ** Submitted
-1. Lan, L., & Zocca, A. (2023). Mixed-integer linear programming approaches for tree partitioning of power networks (arXiv:2110.07000). arXiv. https://doi.org/10.48550/arXiv.2110.07000. ([[https://github.com/leonlan/tree-partitioning][Code]]).
-2. Bekker, R., Bharti, B., Lan, L., & Mandjes, M. (2023). A queueing-based approach for integrated routing and appointment scheduling (arXiv:2312.02715). arXiv. https://doi.org/10.48550/arXiv.2312.02715. ([[https://github.com/leonlan/routing-appointment-scheduling][Code]]).
+1. Lan, L., & Zocca, A. (2023). Mixed-integer linear programming approaches for tree partitioning of power networks. [[https://doi.org/10.48550/arXiv.2110.07000][arXiv:2110.07000]]. ([[https://github.com/leonlan/tree-partitioning][Code]]).
+2. Bekker, R., Bharti, B., Lan, L., & Mandjes, M. (2023). A queueing-based approach for integrated routing and appointment scheduling. [[https://doi.org/10.48550/arXiv.2312.02715][arXiv:2312.02715]]. ([[https://github.com/leonlan/routing-appointment-scheduling][Code]]).
