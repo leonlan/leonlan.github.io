@@ -1,29 +1,42 @@
 #+TITLE: Leon Lan
 #+OPTIONS: toc:nil
 
-* Leon Lan
-#+ATTR_HTML: :width 294px :height 304px
+#+ATTR_HTML: :style float:right; width:240px; height:240px; margin-left:40px;
 [[file:img/LeonLan_Profile2022.jpg]]
 
-Hey, I'm Leon! I am a third-year PhD candidate at the Department of Mathematics of VU Amsterdam. I work on models and algorithms for real-world machine scheduling and vehicle routing problems.
 
-@@html:<a href='mailto:l.lan@vu.nl'><i class="fa fa-envelope" style="font-size:20px"></i></a>@@
-@@html:<a href='https://www.linkedin.com/in/leonlan/'><i class="fa fa-linkedin" style="font-size:20px"></i></a>@@
-@@html:<a href='https://github.com/leonlan'><i class="fa fa-github" style="font-size:20px"></i></a>@@
-@@html:<a href='https://scholar.google.com/citations?user=2yM55FwAAAAJ&hl=en'><i class="fa fa-graduation-cap" style="font-size:20px"></i></a>@@
+Hey, I'm Leon! I'm a third-year PhD candidate at the Department of Mathematics of VU Amsterdam.
+My work focuses on machine scheduling and vehicle routing problems motivated by industrial applications.
+I enjoy tackling large-scale, stochastic and dynamic problems, and designing simple algorithms and software to solve them.
 
-* Software
-- *[[https://github.com/PyVRP/pyvrp][PyVRP]]* :: An open-source, state-of-the-art vehicle routing problem solver in Python.
-- *[[https://github.com/leonlan/VRPLIB][VRPLIB]]* :: Python library to read and write vehicle routing problem instances.
-- *[[https://github.com/leonlan/pyjobshop][PyJobShop]]* :: Constraint programming for real-world job shop scheduling problems.
-- *[[https://github.com/N-Wouda/ALNS][ALNS]]* :: Python implementation of the adaptive large neighborhood search (ALNS) metaheuristic.
+@@html:<a href='mailto:l.lan@vu.nl'><i class="fa fa-envelope" style="font-size:20px"></i></a>@@  |  @@html:<a href='https://www.linkedin.com/in/leonlan/'><i class="fa fa-linkedin" style="font-size:20px"></i></a>@@  | @@html:<a href='https://github.com/leonlan'><i class="fa fa-github" style="font-size:20px"></i></a>@@ | @@html:<a href='https://scholar.google.com/citations?user=2yM55FwAAAAJ&hl=en'><i class="fa fa-graduation-cap" style="font-size:20px"></i></a>@@
 
-* Research
-** Accepted
-1. Lan, L., van Doorn, J., Wouda, N. A., Rijal, A., & Bhulai, S. (2024). An iterative sample scenario approach for the dynamic dispatch waves problem. [[https://pubsonline.informs.org/doi/10.1287/trsc.2023.0111][Transportation Science, forthcoming]]. ([[https://github.com/leonlan/dynamic-dispatch-waves][Code]]).
-2. Wouda, N. A., Lan, L., & Kool, W. (2024). PyVRP: a high-performance VRP solver package. [[https://doi.org/10.1287/ijoc.2023.0055][INFORMS Journal on Computing, forthcoming]]. ([[https://github.com/PyVRP/PyVRP][Code]]).
-3. Wouda, N. A., & Lan, L. (2023). ALNS: A Python implementation of the adaptive large neighbourhood search metaheuristic. [[https://doi.org/10.21105/joss.05028][Journal of Open Source Software, 8(81), 5028]].
 
-** Submitted
-1. Lan, L., & Zocca, A. (2023). Mixed-integer linear programming approaches for tree partitioning of power networks. [[https://doi.org/10.48550/arXiv.2110.07000][arXiv:2110.07000]]. ([[https://github.com/leonlan/tree-partitioning][Code]]).
-2. Bekker, R., Bharti, B., Lan, L., & Mandjes, M. (2023). A queueing-based approach for integrated routing and appointment scheduling. [[https://doi.org/10.48550/arXiv.2312.02715][arXiv:2312.02715]]. ([[https://github.com/leonlan/routing-appointment-scheduling][Code]]).
+@@html:<section>@@
+
+@@html:<h4>Published papers</h4>@@
+
+1. *Lan, L.*, van Doorn, J., Wouda, N. A., Rijal, A., & Bhulai, S. (2024). An iterative sample scenario approach for the dynamic dispatch waves problem. [[https://pubsonline.informs.org/doi/10.1287/trsc.2023.0111][Transportation Science, forthcoming]].
+2. Wouda, N. A., *Lan, L.*, & Kool, W. (2024). PyVRP: a high-performance VRP solver package. [[https://doi.org/10.1287/ijoc.2023.0055][INFORMS Journal on Computing, forthcoming]].
+3. Wouda, N. A., & *Lan, L*. (2023). ALNS: A Python implementation of the adaptive large neighbourhood search metaheuristic. [[https://doi.org/10.21105/joss.05028][Journal of Open Source Software, 8(81), 5028]].
+
+@@html:<h4>Submitted papers</h4>@@
+
+1. *Lan, L*., & Zocca, A. (2023). Mixed-integer linear programming approaches for tree partitioning of power networks. [[https://doi.org/10.48550/arXiv.2110.07000][arXiv:2110.07000]].
+2. Bekker, R., Bharti, B., *Lan, L.*, & Mandjes, M. (2023). A queueing-based approach for integrated routing and appointment scheduling. [[https://doi.org/10.48550/arXiv.2312.02715][arXiv:2312.02715]].
+
+@@html:<h4>Work in progress</h4>@@
+
+1. *Lan, L*., & Berkhout, J. (2024). PyJobShop: Solving real-world machine scheduling with constraint programming.
+2. *Lan, L*., & Berkhout, J., & van der Mei, R. (2024). Production scheduling in the animal feed manufacturing industry.
+
+
+@@html:<h4>Software</h4>@@
+
+1. *[[https://github.com/PyVRP/pyvrp][PyVRP]]*: An open-source, state-of-the-art vehicle routing problem solver.
+2. *[[https://github.com/leonlan/VRPLIB][VRPLIB]]*: Python library to read and write vehicle routing problem instances.
+3. *[[https://github.com/leonlan/pyjobshop][PyJobShop]]*: Constraint programming for real-world machine scheduling problems.
+4. *[[https://github.com/N-Wouda/ALNS][ALNS]]*: Python implementation of the adaptive large neighborhood search (ALNS) metaheuristic.
+
+
+@@html:</section>@@

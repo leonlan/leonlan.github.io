@@ -18,10 +18,16 @@
 
 ;; Customize the HTML output
 (setq org-html-validation-link nil            ;; Don't show validation link
-      org-html-head-include-scripts nil       ;; Use our own scripts
+      ;; org-html-head-include-scripts nil       ;; Use our own scripts
       org-html-head-include-default-style nil ;; Use our own styles
-      org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" />\n
-                        <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css\"> ")
+      org-html-head
+      "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" media=\"screen\" />\n
+        <link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css\"> ")
+
+;; Add a navigation bar to the HTML output
+(setq org-html-preamble
+      "<nav> <h3> Leon Lan </h3> </nav>
+")
 
 ;; Define the publishing project
 (setq org-publish-project-alist
