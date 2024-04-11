@@ -1,7 +1,15 @@
-#+TITLE: KAIST 2024
+* KAIST 2024
+Thank you for attending my talk at KAIST on 16 April 2024.
+Below you can find links to the slides, our papers and source codes.
 
-* Hello world!
+- Slides: https://github.com/leonlan/slides/blob/main/KAIST2024-PyVRP-ICD.pdf
+- PyVRP:
+  - INFORMS Journal on Computing: https://pubsonline.informs.org/doi/10.1287/ijoc.2023.0055
+  - arXiv: https://arxiv.org/abs/2403.13795
+  - Documentation: https://pyvrp.org/
+  - Github: https://github.com/PyVRP/PyVRP/
 
-- Slides: TODO
-- PyVRP: TODO
-- ICD: TODO
+- ICD
+  - Transportation Science: https://pubsonline.informs.org/doi/10.1287/trsc.2023.0111
+  - arXiv: https://arxiv.org/abs/2308.14476
+  - Source code: https://github.com/leonlan/dynamic-dispatch-waves
