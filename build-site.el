@@ -26,7 +26,7 @@
 
 ;; Add a navigation bar to the HTML output
 (setq org-html-preamble
-      "<nav> <h3> <a href=\"https://www.leonlan.com\" style=\"color: black; text-decoration: none\"> Leon Lan </a> </h3> </nav>
+      "<header> <nav> <h3> <a href=\"https://www.leonlan.com\"> Leon Lan </a> </h3> </nav> </header>
 ")
 
 ;; Define the publishing project
