@@ -1,8 +1,7 @@
 #+TITLE: KAIST 2024
 
 * KAIST 2024
-Thank you for attending my talk at KAIST on 16 April 2024.
-The PDF version of my talk can be found [[https://github.com/leonlan/slides/blob/main/KAIST2024-PyVRP-ICD.pdf][here]].
+The PDF version of my talk at KAIST on 16 April 2024 can be found [[https://github.com/leonlan/slides/blob/main/KAIST2024-PyVRP-ICD.pdf][here]].
 Below you can find links to our papers and source code.
 
 ** PyVRP
