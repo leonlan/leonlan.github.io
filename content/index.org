@@ -12,7 +12,6 @@ I enjoy tackling large-scale, stochastic and dynamic problems with simple method
 @@html:<a href='mailto:l.lan@vu.nl'><i class="fa fa-envelope" style="font-size:20px"></i></a>@@  |  @@html:<a href='https://www.linkedin.com/in/leonlan/'><i class="fa fa-linkedin" style="font-size:20px"></i></a>@@  | @@html:<a href='https://github.com/leonlan'><i class="fa fa-github" style="font-size:20px"></i></a>@@ | @@html:<a href='https://scholar.google.com/citations?user=2yM55FwAAAAJ&hl=en'><i class="fa fa-graduation-cap" style="font-size:20px"></i></a>@@
 
 
-@@html:<section>@@
 
 @@html:<h4>Published papers</h4>@@
 
