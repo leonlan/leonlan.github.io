@@ -7,7 +7,7 @@
 Hey, I'm Leon!
 I'm a third-year PhD candidate in Operations Research at VU Amsterdam.
 My work focuses on machine scheduling and vehicle routing problems motivated by industrial applications.
-I enjoy tackling large-scale, stochastic and dynamic problems with simple methods and software.
+I like to solve large-scale, stochastic, and dynamic problems using simple methods and reusable software.
 
 @@html:<a href='mailto:l.lan@vu.nl'><i class="fa fa-envelope" style="font-size:20px"></i></a>@@  |  @@html:<a href='https://www.linkedin.com/in/leonlan/'><i class="fa fa-linkedin" style="font-size:20px"></i></a>@@  | @@html:<a href='https://github.com/leonlan'><i class="fa fa-github" style="font-size:20px"></i></a>@@ | @@html:<a href='https://scholar.google.com/citations?user=2yM55FwAAAAJ&hl=en'><i class="fa fa-graduation-cap" style="font-size:20px"></i></a>@@
 
@@ -35,7 +35,7 @@ I enjoy tackling large-scale, stochastic and dynamic problems with simple method
 
 1. *[[https://github.com/PyVRP/pyvrp][PyVRP]]*: An open-source, state-of-the-art vehicle routing problem solver.
 2. *[[https://github.com/leonlan/VRPLIB][VRPLIB]]*: Python library to read and write vehicle routing problem instances.
-3. *[[https://github.com/leonlan/pyjobshop][PyJobShop]]*: Constraint programming for real-world machine scheduling problems.
+3. *[[https://github.com/leonlan/pyjobshop][PyJobShop]]*: Solving machine scheduling problems with constraint programming in Python.
 4. *[[https://github.com/N-Wouda/ALNS][ALNS]]*: Python implementation of the adaptive large neighborhood search (ALNS) metaheuristic.
 
 
