@@ -1,0 +1,16 @@
+#+TITLE: EURO2024
+
+* EURO 2024
+The PDF version of my talk at EURO2024 can be found [[https://github.com/leonlan/slides/blob/main/EURO2024-PyVRP-ICD.pdf][here]].
+Below you can find links to our papers and source code.
+
+** PyVRP
+- [[https://pyvrp.org/][Website]]
+- [[https://pubsonline.informs.org/doi/10.1287/ijoc.2023.0055][Published article at INFORMS Journal on Computing]]
+- [[https://arxiv.org/abs/2403.13795][Preprint version on arXiv]]
+- [[https://github.com/PyVRP/PyVRP/][Github repository]]
+
+** ICD
+- [[https://pubsonline.informs.org/doi/10.1287/trsc.2023.0111][Published article at Transportation Science]]
+- [[https://arxiv.org/abs/2308.14476][Preprint version on arXiv]]
+- [[https://github.com/leonlan/dynamic-dispatch-waves][Source code]]
