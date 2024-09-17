@@ -16,9 +16,9 @@ I like to solve large-scale, stochastic, and dynamic problems using simple metho
 @@html:<h4>Published papers</h4>@@
 
 
-1. Bekker, R., Bharti, B., *Lan, L.*, & Mandjes, M. (2024). A queueing-based approach for integrated routing and appointment scheduling. European Journal of Operations Research, forthcoming. [[https://www.sciencedirect.com/science/article/pii/S0377221724003977?via%3Dihub][paper]] | [[https://github.com/leonlan/routing-appointment-scheduling][github]].
-2. *Lan, L.*, van Doorn, J., Wouda, N. A., Rijal, A., & Bhulai, S. (2024). An iterative sample scenario approach for the dynamic dispatch waves problem. Transportation Science, forthcoming. [[https://pubsonline.informs.org/doi/10.1287/trsc.2023.0111][paper]] | [[https://arxiv.org/abs/2308.14476][arXiv]] | [[https://github.com/leonlan/dynamic-dispatch-waves][github]].
-3. Wouda, N. A., *Lan, L.*, & Kool, W. (2024). PyVRP: a high-performance VRP solver package. INFORMS Journal on Computing, forthcoming. [[https://doi.org/10.1287/ijoc.2023.0055][paper]]  | [[https://arxiv.org/abs/2403.13795][arXiv]] | [[https://github.com/PyVRP/PyVRP][github]].
+1. Bekker, R., Bharti, B., *Lan, L.*, & Mandjes, M. (2024). A queueing-based approach for integrated routing and appointment scheduling. European Journal of Operations Research, 318(2), 534–548.  forthcoming. [[https://www.sciencedirect.com/science/article/pii/S0377221724003977?via%3Dihub][paper]] | [[https://github.com/leonlan/routing-appointment-scheduling][github]].
+2. *Lan, L.*, van Doorn, J., Wouda, N. A., Rijal, A., & Bhulai, S. (2024). An iterative sample scenario approach for the dynamic dispatch waves problem. Transportation Science, 58(4), 726–740. [[https://pubsonline.informs.org/doi/10.1287/trsc.2023.0111][paper]] | [[https://arxiv.org/abs/2308.14476][arXiv]] | [[https://github.com/leonlan/dynamic-dispatch-waves][github]].
+3. Wouda, N. A., *Lan, L.*, & Kool, W. (2024). PyVRP: a high-performance VRP solver package. INFORMS Journal on Computing, 36(4), 943–955. [[https://doi.org/10.1287/ijoc.2023.0055][paper]]  | [[https://arxiv.org/abs/2403.13795][arXiv]] | [[https://github.com/PyVRP/PyVRP][github]].
 4. Wouda, N. A., & *Lan, L*. (2023). ALNS: A Python implementation of the adaptive large neighbourhood search metaheuristic. Journal of Open Source Software, 8(81), 5028. [[https://joss.theoj.org/papers/10.21105/joss.05028][paper]] | [[https://github.com/N-Wouda/ALNS][github]].
 
 @@html:<h4>Submitted papers</h4>@@
@@ -27,7 +27,7 @@ I like to solve large-scale, stochastic, and dynamic problems using simple metho
 
 @@html:<h4>Work in progress</h4>@@
 
-1. *Lan, L*., & Berkhout, J. (2024). PyJobShop: Solving real-world machine scheduling with constraint programming. [[https://github.com/PyJobShop/PyJobShop][github]].
+1. *Lan, L*., & Berkhout, J. (2024). PyJobShop: Solving scheduling with constraint programming in Python. [[https://github.com/PyJobShop/PyJobShop][github]].
 2. *Lan, L*., & Berkhout, J., & van der Mei, R. (2024). Production scheduling in the animal feed manufacturing industry.
 
 
