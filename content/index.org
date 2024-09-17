@@ -27,11 +27,13 @@ I like to solve large-scale, stochastic, and dynamic problems using simple metho
 
 @@html:<h4>Submitted papers</h4>@@
 
-1. *Lan, L*., & Zocca, A. (2023). Mixed-integer linear programming approaches for tree partitioning of power networks. [[https://doi.org/10.48550/arXiv.2110.07000][arXiv]] | [[https://github.com/leonlan/tree-partitioning][github]].
+1. *Lan, L*., & Zocca, A. (2023). Mixed-integer linear programming approaches for tree partitioning of power networks.
+   [[https://doi.org/10.48550/arXiv.2110.07000][arXiv]] | [[https://github.com/leonlan/tree-partitioning][github]].
 
 @@html:<h4>Work in progress</h4>@@
 
-1. *Lan, L*., & Berkhout, J. (2024). PyJobShop: Solving scheduling with constraint programming in Python. [[https://github.com/PyJobShop/PyJobShop][github]].
+1. *Lan, L*., & Berkhout, J. (2024). PyJobShop: Solving scheduling with constraint programming in Python.
+   [[https://github.com/PyJobShop/PyJobShop][github]].
 2. *Lan, L*., & Berkhout, J., & van der Mei, R. (2024). Production scheduling in the animal feed manufacturing industry.
 
 
@@ -39,8 +41,9 @@ I like to solve large-scale, stochastic, and dynamic problems using simple metho
 
 1. *[[https://github.com/PyVRP/pyvrp][PyVRP]]*: An open-source, state-of-the-art vehicle routing problem solver.
 2. *[[https://github.com/leonlan/VRPLIB][VRPLIB]]*: Python library to read and write vehicle routing problem instances.
-3. *[[https://github.com/leonlan/pyjobshop][PyJobShop]]*: Solving machine scheduling problems with constraint programming in Python.
+3. *[[https://github.com/leonlan/pyjobshop][PyJobShop]]*: Solving scheduling problems with constraint programming in Python.
 4. *[[https://github.com/N-Wouda/ALNS][ALNS]]*: Python implementation of the adaptive large neighborhood search (ALNS) metaheuristic.
+5. *[[https://tour-du-mont-blanc.streamlit.app/][Tour Du Mont Blanc]]*: Availability calendar of huts for the Tour du Mont Blanc hike.
 
 
 @@html:</section>@@
