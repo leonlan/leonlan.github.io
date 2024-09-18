@@ -34,7 +34,7 @@ I like to solve large-scale, stochastic, and dynamic problems using simple metho
 
 1. *Lan, L*., & Berkhout, J. (2024). PyJobShop: Solving scheduling problems with constraint programming in Python.
    [[https://github.com/PyJobShop/PyJobShop][github]].
-2. *Lan, L*., & Berkhout, J., & van der Mei, R. (2024). Production scheduling in the animal feed manufacturing industry.
+2. *Lan, L*., & Berkhout, J., & van der Mei, R. (2024). Make-to-order scheduling in the animal feed manufacturing industry.
 
 
 @@html:<h4>Software</h4>@@
