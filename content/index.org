@@ -5,9 +5,9 @@
 [[file:img/LeonLan_Profile2022.jpg]]
 
 Hey, I'm Leon!
-I'm a third-year PhD candidate in Operations Research at VU Amsterdam.
+I'm a fourth-year PhD candidate in Operations Research at VU Amsterdam.
 My work focuses on machine scheduling and vehicle routing problems motivated by industrial applications.
-I like to solve large-scale, stochastic, and dynamic problems using simple methods and reusable software.
+I like to solve large-scale and dynamic problems using simple methods and easy-to-use software.
 
 @@html:<a href='mailto:l.lan@vu.nl'><i class="fa fa-envelope" style="font-size:20px"></i></a>@@  |  @@html:<a href='https://www.linkedin.com/in/leonlan/'><i class="fa fa-linkedin" style="font-size:20px"></i></a>@@  | @@html:<a href='https://github.com/leonlan'><i class="fa fa-github" style="font-size:20px"></i></a>@@ | @@html:<a href='https://scholar.google.com/citations?user=2yM55FwAAAAJ&hl=en'><i class="fa fa-graduation-cap" style="font-size:20px"></i></a>@@
 
