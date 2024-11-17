@@ -1,9 +1,6 @@
 #+TITLE: Leon Lan
 #+OPTIONS: toc:nil
 
-#+ATTR_HTML: :style float:right; width:240px; height:240px; margin-left:20px;
-[[file:img/LeonLan_Profile2022.jpg]]
-
 Hey, I'm Leon!
 I'm a fourth-year PhD candidate in Operations Research at VU Amsterdam.
 My work focuses on machine scheduling and vehicle routing problems motivated by industrial applications.
