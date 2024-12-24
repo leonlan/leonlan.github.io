@@ -43,7 +43,6 @@ I like to solve large-scale and dynamic problems using simple methods and easy-t
 2. *[[https://github.com/leonlan/VRPLIB][VRPLIB]]*: Python library to read and write vehicle routing problem instances.
 3. *[[https://github.com/leonlan/pyjobshop][PyJobShop]]*: Solving scheduling problems with constraint programming in Python.
 4. *[[https://github.com/N-Wouda/ALNS][ALNS]]*: Python implementation of the adaptive large neighborhood search (ALNS) metaheuristic.
-5. *[[https://tour-du-mont-blanc.streamlit.app/][Tour Du Mont Blanc]]*: Availability calendar of huts for the Tour du Mont Blanc hike.
 
 
 @@html:</section>@@
