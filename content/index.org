@@ -31,7 +31,7 @@ I'm occasionally available for consulting work in routing and scheduling. Feel f
 
 @@html:<h4>Submitted papers</h4>@@
 1. *Lan, L*., & Berkhout, J. (2024). PyJobShop: Solving scheduling problems with constraint programming in Python.
-   [[https://github.com/PyJobShop/PyJobShop][github]].
+   [[https://arxiv.org/pdf/2502.13483][arXiv]] | [[https://github.com/PyJobShop/PyJobShop][github]].
 
 @@html:<h4>Work in progress</h4>@@
 1. *Lan, L*., & Berkhout, J., & van der Mei, R. (2024). Make-to-order scheduling in the animal feed manufacturing industry.
